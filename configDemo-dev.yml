@@ -1,4 +1,4 @@
 build:
   id: 12
   version: 2.1.4
-  name: GIT_DEV_UPDATED_APPLICATION_VERSION
+  name: GIT_DEV_APPLICATION_VERSION
