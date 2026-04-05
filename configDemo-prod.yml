@@ -1,4 +1,4 @@
 build:
   id: 301
   version: 3.4.5
-  name: GIT_PROD_APPLICATION_VERSION
+  name: UPDATED_GIT_PROD_APPLICATION_VERSION
