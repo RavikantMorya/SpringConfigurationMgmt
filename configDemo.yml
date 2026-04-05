@@ -1,6 +1,3 @@
-spring:
-  profiles:
-    active: prod
 build:
   id: 22
   version: 1.2.4
